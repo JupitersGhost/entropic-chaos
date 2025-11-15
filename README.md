@@ -1288,9 +1288,9 @@ print('PQC bindings tests passed!')
 - **discord.py**: Discord API wrapper (MIT)
 
 **Character & Art:**
-- Cipher-tan, Echo-tan, and Cobra Lab branding are original creations
-- Icons and GUI design © 2024 CipherChaos Project
-- Character artwork represents the chaotic and precise nature of cryptographic entropy
+- Cipher-tan, Echo-tan, and Cobra Lab branding are original creations by me. 
+- Icons created via Gemini + Grok with specific instructions on each character and their designs. All icons and characters were created before generation.
+- Character artwork represents the chaotic and precise nature of cryptographic entropy.
 
 **Acknowledgments:**
 - NIST for standardization efforts in post-quantum cryptography
