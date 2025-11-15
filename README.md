@@ -1,4 +1,4 @@
-# Entropic Chaos / Cobra Lab
+# Entropic Chaos
 
 <div align="center">
   <img src="icon.png" alt="Entropic Chaos" width="200" height="200" style="border-radius: 50%;">
@@ -10,7 +10,7 @@
 
 ---
 
-**Entropic Chaos** (also called "Cobra Lab") is a production-quality distributed entropy generation network across the CHIRASU mesh. This project showcases rigorous entropy validation through NIST SP 800-90B auditing *before* Post-Quantum Cryptography key wrapping, positioning it as a credible demonstration of next-generation cryptographic systems.
+**Entropic Chaos** is a production-quality distributed entropy generation network across the CHIRASU (my homelab) mesh. This project showcases rigorous entropy validation through NIST SP 800-90B auditing *before* Post-Quantum Cryptography key wrapping, positioning it as a credible demonstration of next-generation cryptographic systems.
 
 The network features personality-driven interaction through three character nodes:
 - **Cipher-tan** (ESP32-S3): Entropy harvester with TRNG, WiFi noise, and USB jitter collection
