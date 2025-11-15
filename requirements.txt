@@ -1,0 +1,19 @@
+# GUI Framework
+PySide6>=6.6.0
+
+# Serial/Hardware Communication
+pyserial>=3.5
+pynput>=1.7.6  # for keyboard entropy
+
+# Cryptography
+cryptography>=42.0.0
+
+# Post-Quantum Crypto (built separately via maturin)
+# pqcrypto_bindings - see Cargo.toml
+
+# Optional: if using numpy for entropy analysis
+# numpy>=1.26
+
+# Discord bot dependencies (if running bots on Ayatoki)
+discord.py>=2.3.0
+python-dotenv>=1.0.0
