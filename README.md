@@ -1390,15 +1390,15 @@ This software is provided "as-is" without warranty. See LICENSE file for full te
 
 **GitHub**: https://github.com/JupitersGhost/CipherChaos
 
-**Discord**: [Cobra Lab Server] (link TBD)
+**Discord**: https://discord.gg/dabcxHkFxG #Where my homelab network lives plus integration with Entropic Chaos. Roadmap eventually will include many of these devices as sources of entropy.
 
-**Email**: project@cobralabs.dev (placeholder)
+**Email**: acousticminja@gmail.com
 
 **Documentation**: See `project_phases.txt` for detailed development roadmap
 
 **Hardware**: ESP32-S3 development boards, commodity x86_64 servers, standard networking gear
 
-**Philosophy**: "Serious cryptography doesn't have to be boring. Character-driven architecture makes complex systems approachable while maintaining rigorous security standards."
+**Philosophy**: "Everyone, regardless of the scale and scope of their network, should be able to have digital sovereignty."
 
 ---
 
