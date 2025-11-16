@@ -281,7 +281,7 @@ sudo dnf install python3-pip python3-virtualenv gcc rust cargo
    source venv/bin/activate
    
    # Launch the GUI
-   python cipherchaoslive.py
+   python entropicchaos.py
    ```
 
 ### Discord Bot Setup (Optional - Phase 1)
@@ -1070,7 +1070,7 @@ Entropy Sources → Pool → Audit → Gate → Wrap → Log → Discord
 
 ```
 Entropic Chaos / Cobra Lab/
-├── cipherchaoslive.py      # Main GUI application (Ayatoki orchestrator)
+├── entropicchaos.py      # Main GUI application (Ayatoki orchestrator)
 ├── main.py                 # ESP32-S3 firmware (Cipher-tan v2.1 Enhanced)
 ├── cipher-bot.py           # Discord bot for Cipher-tan monitoring
 ├── echo_bot.py             # Discord bot for Echo-tan (Phase 2)
@@ -1106,7 +1106,7 @@ Auto-generated Directories (runtime):
 ### Key Files Explained
 
 **GUI & Orchestration:**
-- `cipherchaoslive.py` - Main PySide6 application, runs on Ayatoki
+- `entropicchaos.py` - Main PySide6 application, runs on Ayatoki
   - Multi-source entropy aggregation
   - Real-time audit dashboard
   - PQC key wrapping interface
@@ -1172,7 +1172,7 @@ cp .env.example .env
 # Edit .env with your Discord tokens
 
 # 6. Run in development mode
-python cipherchaoslive.py
+python entropicchaos.py
 ```
 
 ### Project Phases
